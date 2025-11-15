@@ -89,8 +89,8 @@ def augment_text(text, synonym_prob, noise_prob = None):
     return augmented_text
 
 def augment_dataset(lex_prob, noise_prob):
-    input_folder = "dataset/test/"
-    output_folder = "dataset/augmented_test/"
+    input_folder = "dataset/original/"
+    output_folder = "dataset/augmented/"
     os.makedirs(output_folder, exist_ok=True)
 
     for filename in os.listdir(input_folder):
