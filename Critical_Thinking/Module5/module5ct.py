@@ -15,7 +15,7 @@ random.seed(525)
 # Wordnet examples inspired from nltk documentation https://www.nltk.org/howto/wordnet.html and medium article:
 # https://medium.com/@alshargi.usa/boosting-text-analysis-with-wordnet-synonyms-and-hypernyms-52f22ac58cd8
 
-# Helper function to fix formatting issues on rebuilt text -- ChatGPT suggestion
+# Helper function to fix formatting issues on rebuilt text --  Modification of ChatGPT suggestion
 def format_text(document, replacement):
     out=[]
     for token, rep in zip(document, replacement):
