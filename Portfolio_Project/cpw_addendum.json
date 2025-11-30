@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "title": "Residency Requirements",
+      "paragraphs": [
+        {
+          "context": " - The physical residence address you give to buy or apply for a license must be  the same as the address given for Colorado state income tax purposes. Visit  cpw.state.co.us/colorado-residency.  - You terminate your Colorado residency if you apply for, buy or accept a  resident hunting, fishing or trapping license issued by another state or foreign  country, register to vote outside Colorado or accept a driver's license that  shows an address other than in Colorado.  RESIDENCY TYPES  1. STANDARD COLORADO RESIDENT  a. Requirements: You must live in Colorado for at least 6 consecutive months immediately prior to buying or applying for any resident CPW product,  have your primary residence in Colorado and have not applied for or  purchased a resident license or pass outside of Colorado in the last six  months.  b. Proof: Current and valid Colorado driver’s license/ID with a Colorado ad dress issued 6 or more months prior. If the Colorado driver’s license/ID  is not six months old, you must provide at least two forms of additional  residency proof, as outlined in “Additional Residency Proofs” below.  2. STUDENT: ATTENDING SCHOOL FULL TIME IN COLORADO  a. Requirements: You must be attending school full time at an accredited  Colorado school starting at least six months prior to buying or applying  for any resident CPW product.  b. Proof: Student ID, name of institution, date you became a full-time stu dent, school transcript showing full-time status.  3. STUDENT: ATTENDING SCHOOL FULL TIME OUTSIDE OF COLORADO  a. Requirements: You must meet Colorado residency requirements and be  attending an accredited school outside of Colorado, paying nonresident  tuition.  b. Proof: Student ID, name of institution, date you became a full-time stu dent, proof of out-of-state tuition payment.  4. MILITARY: STATIONED IN COLORADO  a. Requirements: You must be active-duty military stationed in Colorado.  Military member's spouse and/or dependents share the same residency  status. Residency begins the date the orders begin.  b. Proof: Military ID and active orders.  5. MILITARY: COLORADO HOME OF RECORD  a. Requirements: You must be active-duty military stationed outside of Colo rado, but with Colorado as your home of record, paying income tax as a  Colorado resident. Military member's spouse and/or dependents share  the same residency status.  b. Proof: Military ID and active orders.  6. YOUTH  Children under the age of 18 have the same residency status as their parent,  legal guardian or person with whom they live the majority of the time per  court order.  OTHER RESIDENCY INFORMATION  1. ADDITIONAL RESIDENCY PROOFS  If you otherwise meet residency requirements but your Colorado driver’s  license or ID was issued or renewed less than six months ago, or you have a  CPW-approved religious exemption to photo identification on your record,  you must provide at least two additional proofs of residency showing six  consecutive months of Colorado residency immediately prior to buying or  applying for a license. Those proofs include: income sources (pay stubs),  utility bills, state income tax documents (as a full-time resident), lease  agreements/rent receipts, motor vehicle registration, voter registration.  2. MULTIPLE HOMES  If you have a home in Colorado and another location, call 303-297-1192  to make sure you comply with Colorado residency requirements before  obtaining a CPW license or state park pass.",
+          "qas": [
+            {
+              "id": "residency-1",
+              "question": "How long must a person live in Colorado before buying a resident CPW product?",
+              "answers": [
+                {
+                  "text": "at least 6 consecutive months",
+                  "answer_start": 568
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "residency-2",
+              "question": "What documents can be used as additional residency proofs?",
+              "answers": [
+                {
+                  "text": "income sources (pay stubs),  utility bills, state income tax documents (as a full-time resident), lease  agreements/rent receipts, motor vehicle registration, voter registration",
+                  "answer_start": 3060
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Habitat Stamp",
+      "paragraphs": [
+        {
+          "context": "Habitat Stamps are $12.47 and only one is required  per person, per year for anyone ages 18–64. Stamps  are valid March 1–March 31  (13 months).  - You must purchase a stamp before buying or ap plying for a hunting or fishing license.  - A lifetime stamp is available for $374.47.  - Anyone who is approved in the Columbine, First Responder, Veteran  and/or Big Game Mobility Impaired programs is exempt from the Habitat Stamp requirement. See cpw.state.co.us/park-specialty-passes.  - Learn more online: cpw.state.co.us/habitat-stamp",
+          "qas": [
+            {
+              "id": "habitat-1",
+              "question": "How much does a Habitat Stamp cost?",
+              "answers": [
+                {
+                  "text": "$12.47",
+                  "answer_start": 19
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "habitat-2",
+              "question": "Who is exempt from the Habitat Stamp requirement?",
+              "answers": [
+                {
+                  "text": "Anyone who is approved in the Columbine, First Responder, Veteran  and/or Big Game Mobility Impaired programs",
+                  "answer_start": 284
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Anglers With Disabilities",
+      "paragraphs": [
+        {
+          "context": "CPW offers several programs for hunters and anglers with disabilities. Go to cpw.state.co.us/fishing-licenses for more on how to apply. These programs require advance legal paperwork submissions: Please apply AT LEAST 30 DAYS prior to when you wish to use the permit or license. Due to volume, applications cannot be expedited. RESIDENT COLUMBINE FISHING LIFETIME PROGRAM Colorado residents who are totally and permanently disabled can apply for a free lifetime fishing license. RESIDENT FIRST RESPONDER LIFETIME COMBO LICENSE Colorado resident first responders who have proof of a permanent occu pational disability can qualify for the First Responder program to obtain a free lifetime fishing or combo small game/fishing license. RESIDENT DISABLED VETERAN LIFETIME COMBO LICENSE Purple Heart recipients or military veterans who have a service-connected disability (with an overall combined rating of NEW 50% or more by the Dept. of Veteran's Affairs) and are residents of Colorado can obtain a free lifetime fishing or combo small game/fishing license.",
+          "qas": [
+            {
+              "id": "disability-1",
+              "question": "Who can apply for the free lifetime fishing license?",
+              "answers": [
+                {
+                  "text": "Colorado residents who are totally and permanently disabled",
+                  "answer_start": 372
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Aquatic Nuisance Species",
+      "paragraphs": [
+        {
+          "context": "DON’T LET INVASIVE SPECIES RUIN YOUR FAVORITE FISHING SPOT Aquatic nuisance species (ANS) are a significant and rapidly growing threat to Colorado’s fisheries and water supplies. ANS are invasive animals, plants and diseases that are not native to our rivers, lakes, streams and wetlands. Once introduced, most ANS cannot be eradicated and cost millions to manage. Preventing the introduction and spread of ANS is critical to maintaining our fisheries. Learn more about aquatic nuisance species at cpw.state.co.us/aquatic-nuisance-species. Threats to Colorado’s aquatic ecosystem and fisheries include zebra and quagga mussels, New Zealand mudsnails, whirling disease, viral hemorrhagic septicemia (VHS) and Eurasian watermilfoil. Help CPW combat these invasive species and prevent new ANS from entering our state by following the guidelines outlined below: 1. It is the responsibility of the vessel or other floating device operator to clean, drain water from all compartments and motors/engines between launches, and dry the vessel or other floating device in between launches. 2. Upon removal of a vessel or other floating device from waters of the state, and before leaving the boat launch or parking area, the operator is required to remove aquatic plants and water drain plug(s). It is prohibited to transport a vessel or other floating device over land with aquatic plants or water drain plugs in place. 3. Remove all plants, animals or mud, and thoroughly wash boats, trailers, waders and equipment that have come in contact with the water before leaving a lake or stream. 4. Drain any space or item that could hold water, including live wells, bait containers, bilge, ballast tanks, storage areas, engine cooling systems or any other place on boats or equipment that might hold water. 5. Allow boats, engines, boots and gear to dry completely before moving to other waters. 6. If draining and drying are not possible, wash boats, trailers and equipment carefully and completely with hot water (120–140 degrees F). 7. Stop by the CPW office in Denver (6060 Broadway, Denver, CO 80216) Monday–Friday for a free professional ANS inspection or decontamination. Check cpw.state.co.us/boat-inspections for more than 70 statewide inspection station hours of operation. 8. Don’t move or transport fish between water bodies. This can spread diseases and nuisance species. 9. Don’t dispose of fish entrails or other byproducts into any body of water.  ANS STAMP: Required for motorboats and sailboats To help CPW detect, prevent and manage aquatic nuisance species in Colorado's waters, and to protect human health, safety and welfare from aquatic nuisance species, each motorboat or sailboat must have an ANS stamp before launching in Colorado waters. Boat owners are required to purchase the ANS Stamp, and boat operators must retain proof of purchase (an electronic or printed receipt) on their person, motorboat or sailboat when operating the vehicle. - RESIDENTS: Boaters registering in Colorado will purchase the ANS Stamp at the time of registration, renewal online, or at any CPW office or state park. Residents with motorboats or sailboats documented by the U.S. Coast Guard or otherwise exempt from in-state registration can purchase the ANS stamp online at  cpw.state.co.us/buy-apply, or in person at any CPW office, state park or sales agent. - NONRESIDENTS: Nonresidents can purchase the ANS stamp online at cpw.state.co.us/buy-apply, or in person at any CPW office, state park or sales agent",
+          "qas": [
+            {
+              "id": "ans-1",
+              "question": "What are aquatic nuisance species?",
+              "answers": [
+                {
+                  "text": "invasive animals, plants and diseases that are not native to our rivers, lakes, streams and wetlands",
+                  "answer_start": 187
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "ans-2",
+              "question": "What should boat operators do before leaving a boat launch?",
+              "answers": [
+                {
+                  "text": "remove aquatic plants and water drain plug(s)",
+                  "answer_start": 1239
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "ans-3",
+              "question": "What is required before launching a motorboat or sailboat in Colorado waters?",
+              "answers": [
+                {
+                  "text": "an ANS stamp",
+                  "answer_start": 2702
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Rusty Crayfish",
+      "paragraphs": [
+        {
+          "context": "RUSTY CRAYFISH Crayfish are not native to parts of Colorado, yet they have become established in many waters throughout the state. Rusty crayfish endanger aquatic native species and sportfish by: - PREYING on all life stages of fish, amphibians and invertebrates and other species of crayfish. - COMPETING aggressively for habitat and food. - DESTROYING productive habitat in our streams, ponds and lakes. Crayfish can be taken for personal consumption, but care should be taken with their use and disposal. - Even though crayfish can be taken live east of the Continental Divide, it is recommended that the tails of all crayfish be removed immediately and packed in ice for transport. - Do not throw unused bait crayfish, or bait of any kind, back in the water alive. LIVE TRANSPORT PROHIBITED  FROM WATERS WEST OF THE CONTINENTAL DIVIDE All crayfish caught west of the Continental Divide must be immediately killed (by removing the head from the thorax) and taken into possession, or immediately returned to the water from which they were taken. AT SANCHEZ RESERVOIR SWA Rusty crayfish have been discovered at Sanchez Reservoir State Wildlife Area (SWA) in Costilla Co. To prevent their spread within and beyond this area, a CPW order prevents the transport of any live crayfish from Sanchez Reservoir SWA.",
+          "qas": [
+            {
+              "id": "crayfish-1",
+              "question": "What threat do rusty crayfish pose to native species?",
+              "answers": [
+                {
+                  "text": "PREYING on all life stages of fish, amphibians and invertebrates",
+                  "answer_start": 198
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "crayfish-2",
+              "question": "What must be done to crayfish caught west of the Continental Divide?",
+              "answers": [
+                {
+                  "text": "must be immediately killed",
+                  "answer_start": 890
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Fishing Terms Glossary",
+      "paragraphs": [
+        {
+          "context": "ARTIFICIAL FLIES AND LURES means devices made entirely of, or a combination of, natural or synthetic nonedible, nonscented materials (regardless if the scent is added in the manufacturing process or applied afterward), or materials such as wood, plastic, silicone, rubber, epoxy, glass, hair, metal, feathers or fiber, designed to attract fish. This does not include anything defined as bait below. - BAIT means any hand-moldable material designed to attract fish by the sense of taste or smell; those devices to which scents or smell attractants have been added or externally applied (regardless if the scent is added in the manufacturing process or applied afterward) and scented manufactured fish eggs and traditional organic baits, including but not limited to worms, grubs, crickets, leeches, dough baits or stink baits, insects, crayfish, human food, fish, fish parts or fish eggs. - CHUMMING is placing fish, parts of fish or other feeding material in the waters for the purpose of attracting fish to a particular area in order that they might be taken. This does not include fishing with baited hooks or live traps. - COMMON HOOK is any hook or multiple hooks having a common shank. All hooks attached to a manufactured artificial lure are considered a common hook. - FISHING is defined as efforts to take fish, amphibians or crustaceans, including by hook and line, handline, trot-line, jug, seine, net, underwater spearfishing, archery, snagging or gigging. - FLOAT TUBE means a floating device which suspends a single occupant in the water from the seat down and is not propelled by oars, paddles or motors. - GAME FISH means all species of fish (except unregulated species and prohibited nongame, endangered and threatened species), which currently exist or may be introduced into the state and which are classified as game fish by the Parks and Wildlife Commission. This includes, but is not limited to, brown, brook, cutthroat, golden, lake (Mackinaw), and rainbow trout; cutbow (rainbow/cutthroat hybrids); splake (lake trout/brook trout hybrids) and tiger trout (brown/brook trout hybrids); Arctic char; grayling; kokanee salmon; whitefish; sculpin; smallmouth, largemouth, spotted, striped and white bass; wiper (striped bass/white bass hybrids); carp; bullhead, blue, channel and flathead catfish; black and white crappie; drum; northern pike; tiger muskie; Sacramento and yellow perch; sauger; saugeye (walleye/sauger hybrids); speckled dace; rainbow smelt; tench; walleye; bluegill; bluegill hybrids (bluegill/green sunfish); green, redear and pumpkinseed sunfish; gizzard shad; longnose and white suckers; and minnows. - GIG is a barbed fork with one or more tines attached to a handle. - JUGS are floats to which are attached a line and common hook. - MINNOW means all members of the families of fish classified Cyprinidae (which includes, but is not limited to: carp, chub, dace, fathead minnow, shiner, stoneroller and tench), Cyprinodontidae (including but not limited to: killifish) and Clupeidae (gizzard shad), except those designated as nongame, threatened or endangered, or those designated as nonregulated. See pages 8–9, and Chapters 10 and 11 of CPW regulations online. - NATURAL STREAM is one where water naturally flows regularly or intermittently for at least part of the year. Man-made ditches or other channels are not considered natural streams. - NET means seine, dip net, gill net, cast net, trap net, hoop net or similar devices used to take or as an aid in taking fish, amphibians or crustaceans. - PERSONALLY ATTENDED LINE means a rod and line, handline or tip-up that is used for fishing and which is under the personal control of a person who is in proximity to it. - SEINING means the capture of live fish with the use of a net that hangs vertically in the water and is used to enclose fish when its ends are pulled together or are drawn ashore. - SIZE OR LENGTH means the total length of a fish with head and tail attached, measured from the tip of the snout to the tip of the tail. - SLINGBOW means a hand-held device, not drawn or held mechanically, with the arms or attachment points to which an elastic band is attached for propelling an arrow. Also includes string releases or mechanical releases which are hand-drawn and handheld, with no other attachment or connection to the slingbow other than to the bowstring. Wrist-brace attachments are considered normal components of a slingbow. - SNAGGING is the taking of fish by snatching with hooks, gang hooks, artificial flies or lures, or similar devices where the fish is hooked in a part of the body other than the mouth. - TROT-LINE is a single, anchored line with a float at each end from which droplines are attached",
+          "qas": [
+            {
+              "id": "glossary-1",
+              "question": "What does 'bait' mean in Colorado fishing regulations?",
+              "answers": [
+                {
+                  "text": "any hand-moldable material designed to attract fish by the sense of taste or smell",
+                  "answer_start": 412
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "glossary-2",
+              "question": "How is fishing defined?",
+              "answers": [
+                {
+                  "text": "efforts to take fish, amphibians or crustaceans",
+                  "answer_start": 1298
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
